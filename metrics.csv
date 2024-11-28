@@ -1,0 +1,8 @@
+Metric,Value
+True Positive,120
+True Negative,48
+False Positive,24
+False Negative,0
+Precision,0.833333
+Recall,1.000000
+F1-Score,0.909091
